@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @eriskjel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java, SQL, Python, C and more!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me erik.skjellevik@lyse.net
+- 🌱 I’m currently learning Java, Vue, React/Next.js, SpringBoot
 
 <!---
 eriskjel/eriskjel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

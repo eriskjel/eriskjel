@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @eriskjel
-- 🌱 I’m currently learning Java, Vue, React/Next.js, SpringBoot
+- 🌱 I’m currently learning
+- Machine learning
+- C++
+- React
+- Kotlin
 
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eriskjel)](https://github.com/anuraghazra/github-readme-stats)
 
